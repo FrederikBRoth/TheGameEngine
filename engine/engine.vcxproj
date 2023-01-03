@@ -74,8 +74,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>$(SolutionDir)/includes;$(IncludePath)</IncludePath>
-    <LibraryPath>$(SolutionDir)/lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\FedeRico\Documents\Hobby Coding\VS\GameEngineInclues/includes;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\FedeRico\Documents\Hobby Coding\VS\GameEngineInclues/lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>

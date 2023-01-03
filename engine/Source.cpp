@@ -3,7 +3,7 @@
 #include <GLFW\glfw3.h>
 #include <iostream>
 #include <fbrLibs/Shader.h>
-#include "fbrLibs/Camera.h";
+#include <fbrLibs/Camera.h>;
 #include <stb_image.h>
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
